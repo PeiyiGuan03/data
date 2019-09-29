@@ -1,8 +1,8 @@
 # 第一周作业
 ## 个人数据的数据集（原始数据）         
-![是每天解锁手机的次数](https://github.com/PeiyiGuan03/data/blob/master/%E6%95%B0%E6%8D%AE%E9%9B%86.jpg) 
+![每天解锁手机的次数](https://github.com/PeiyiGuan03/data/blob/master/%E6%95%B0%E6%8D%AE%E9%9B%86.jpg) 
 ## 数据的呈现
-![是只会涂色的手残画的图](https://github.com/PeiyiGuan03/data/blob/master/%E6%89%8B%E7%BB%98%E5%8F%AF%E8%A7%86%E5%8C%96.jpg)
+![画的图](https://github.com/PeiyiGuan03/data/blob/master/%E6%89%8B%E7%BB%98%E5%8F%AF%E8%A7%86%E5%8C%96.jpg)
 ## 操作过程和感想        
   1.统计使用时间和解锁次数的功能是手机自带的，但是截完图发现只有每个时段解锁次数的比例，不知道到底解锁了几次。所以就根据比例和总次数，手动计算到底每个小时解锁了几次手机。             
   2.这个功能并不能回看前一天的具体记录，所以每天要在23：59之前完成截图。然后因为立志早睡，所以得在晚上睡前完成截图，当天不再使用手机。       
