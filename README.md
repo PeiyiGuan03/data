@@ -1,6 +1,6 @@
 # 第一周作业
 ## 个人数据的数据集（原始数据）         
-![是每天解锁手机的次数](https://github.com/PeiyiGuan03/data/blob/master/%E6%95%B0%E6%8D%AE%E9%9B%86.jpg)
+![是每天解锁手机的次数](https://github.com/PeiyiGuan03/data/blob/master/%E6%95%B0%E6%8D%AE%E9%9B%86.jpg) 
 ## 数据的呈现
 ![是只会涂色的手残画的图](https://github.com/PeiyiGuan03/data/blob/master/%E6%89%8B%E7%BB%98%E5%8F%AF%E8%A7%86%E5%8C%96.jpg)
 ## 操作过程和感想        
