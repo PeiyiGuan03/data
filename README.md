@@ -1,5 +1,5 @@
 # 第二周作业
-## 我国还有哪些关于公共数据开放的条例或法规？国内外有哪些政府开放数据平台？      
+## 我国还有哪些关于公共数据开放的条例或法规？     
 1.《上海市公共数据开放暂行办法》        
 [上海市公共数据开放暂行办法](http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw12344/u26aw62638.html)         
 2.《中华人民共和国网络安全法》        
@@ -13,7 +13,25 @@
 4.《南京市政务数据管理暂行办法》（2019年9月20日起实行）      
 [南京市政务数据管理暂行办法](http://www.nanjing.gov.cn/zdgk/201908/t20190827_1636111.html)       
 5.《促进大数据发展行动纲要》        
-[促进大数据发展行动纲要](http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm)
+[促进大数据发展行动纲要](http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm)        
+## 国内外有哪些政府开放数据平台？        
+1.[联合国官方地图库](https://www.un.org/Depts/Cartographic/english/htmain.htm)      
+2.[世界银行](https://data.worldbank.org/)      
+3.[联合国数据库](http://data.un.org/)       
+4.[联合国统计](https://unstats.un.org/unsd/mbs/app/DataSearchTable.aspx)
+5.[美国政府开放数据](https://www.data.gov/)        
+6.[纽约政府开放数据平台](https://opendata.cityofnewyork.us/)     
+7.[休斯顿市政府开放数据平台]http://data.houstontx.gov/(
+8.[新加坡政府开放数据平台](https://data.gov.sg/)      
+9.[经济合作与发展组织OECD](http://www.oecd.org/)      
+> 经济合作与发展组织的成员包括：奥地利、澳大利亚、比利时、加拿大、捷克共和国、丹麦、芬兰、法国、德国、希腊、匈牙利、冰岛、意大利、日本、卢森堡、墨西哥、荷兰、新西兰、挪威、波兰、葡萄牙、韩国、西班牙、瑞典、瑞士、土耳其、英国和美国。
+
+10.[国家统计局](http://www.stats.gov.cn/)      
+11.[中华人民共和国中央人民政府](http://www.gov.cn/shuju/index.htm)       
+12.[中国国家调查数据库](http://www.cnsda.org/index.php)       
+13.[中国科学院地理科学与资源研究所](http://www.data.ac.cn/)     
+14.[中国国土资源与经济社会发展统计数据库](http://tongji.cnki.net/kns55/addvalue/indexlist.aspx?sicode=Z006)       
+15.[中国政府开放数据平台汇总](http://www.tanmer.com/blog/451)
 
 
 # 第一周作业
