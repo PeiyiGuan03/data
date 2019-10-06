@@ -19,20 +19,25 @@
 2.[世界银行](https://data.worldbank.org/)      
 3.[联合国数据库](http://data.un.org/)       
 4.[联合国统计](https://unstats.un.org/unsd/mbs/app/DataSearchTable.aspx)
-5.[美国政府开放数据](https://www.data.gov/)        
-6.[纽约政府开放数据平台](https://opendata.cityofnewyork.us/)     
-7.[休斯顿市政府开放数据平台]http://data.houstontx.gov/(
-8.[新加坡政府开放数据平台](https://data.gov.sg/)      
-9.[经济合作与发展组织OECD](http://www.oecd.org/)      
+5.[美国政府开放数据](https://www.data.gov/)      
+6.[美国国家环境信息中心](https://www.ncdc.noaa.gov/)
+7.[纽约政府开放数据平台](https://opendata.cityofnewyork.us/)     
+8.[休斯顿市政府开放数据平台]http://data.houstontx.gov/(
+9.[新加坡政府开放数据平台](https://data.gov.sg/)      
+10.[经济合作与发展组织OECD](http://www.oecd.org/)      
 > 经济合作与发展组织的成员包括：奥地利、澳大利亚、比利时、加拿大、捷克共和国、丹麦、芬兰、法国、德国、希腊、匈牙利、冰岛、意大利、日本、卢森堡、墨西哥、荷兰、新西兰、挪威、波兰、葡萄牙、韩国、西班牙、瑞典、瑞士、土耳其、英国和美国。
 
-10.[国家统计局](http://www.stats.gov.cn/)      
-11.[中华人民共和国中央人民政府](http://www.gov.cn/shuju/index.htm)       
-12.[中国国家调查数据库](http://www.cnsda.org/index.php)       
-13.[中国科学院地理科学与资源研究所](http://www.data.ac.cn/)     
-14.[中国国土资源与经济社会发展统计数据库](http://tongji.cnki.net/kns55/addvalue/indexlist.aspx?sicode=Z006)       
-15.[中国政府开放数据平台汇总](http://www.tanmer.com/blog/451)
-
+11.[国家统计局](http://www.stats.gov.cn/)      
+12.[中华人民共和国中央人民政府](http://www.gov.cn/shuju/index.htm)       
+13.[中国国家调查数据库](http://www.cnsda.org/index.php)       
+14.[中国科学院地理科学与资源研究所](http://www.data.ac.cn/)     
+15.[中国国土资源与经济社会发展统计数据库](http://tongji.cnki.net/kns55/addvalue/indexlist.aspx?sicode=Z006)       
+16.[中国政府开放数据平台汇总](http://www.tanmer.com/blog/451)
+## 2012-2018年各季度GDP增速        
+### 选取的统计指标        
+### 数据页面          
+### 计算步骤   
+### 答案       
 
 # 第一周作业
 ## 个人数据的数据集（原始数据）         
