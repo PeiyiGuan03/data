@@ -15,24 +15,24 @@
 5.《促进大数据发展行动纲要》        
 [促进大数据发展行动纲要](http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm)        
 ## 国内外有哪些政府开放数据平台？        
-1.[联合国官方地图库](https://www.un.org/Depts/Cartographic/english/htmain.htm)      
+1.[联合国官方地图库](https://www.un.org/Depts/Cartographic/english/htmain.htm)           
 2.[世界银行](https://data.worldbank.org/)      
 3.[联合国数据库](http://data.un.org/)       
-4.[联合国统计](https://unstats.un.org/unsd/mbs/app/DataSearchTable.aspx)
-5.[美国政府开放数据](https://www.data.gov/)      
-6.[美国国家环境信息中心](https://www.ncdc.noaa.gov/)
-7.[纽约政府开放数据平台](https://opendata.cityofnewyork.us/)     
-8.[休斯顿市政府开放数据平台]http://data.houstontx.gov/(
-9.[新加坡政府开放数据平台](https://data.gov.sg/)      
+4.[联合国统计](https://unstats.un.org/unsd/mbs/app/DataSearchTable.aspx)         
+5.[美国政府开放数据](https://www.data.gov/)         
+6.[美国国家环境信息中心](https://www.ncdc.noaa.gov/)      
+7.[纽约政府开放数据平台](https://opendata.cityofnewyork.us/)       
+8.[休斯顿市政府开放数据平台]（http://data.houstontx.gov/）       
+9.[新加坡政府开放数据平台](https://data.gov.sg/)         
 10.[经济合作与发展组织OECD](http://www.oecd.org/)          
 > 经济合作与发展组织的成员包括：奥地利、澳大利亚、比利时、加拿大、捷克共和国、丹麦、芬兰、法国、德国、希腊、匈牙利、冰岛、意大利、日本、卢森堡、墨西哥、荷兰、新西兰、挪威、波兰、葡萄牙、韩国、西班牙、瑞典、瑞士、土耳其、英国和美国。
 
-11.[国家统计局](http://www.stats.gov.cn/)      
-12.[中华人民共和国中央人民政府](http://www.gov.cn/shuju/index.htm)       
-13.[中国国家调查数据库](http://www.cnsda.org/index.php)       
-14.[中国科学院地理科学与资源研究所](http://www.data.ac.cn/)     
-15.[中国国土资源与经济社会发展统计数据库](http://tongji.cnki.net/kns55/addvalue/indexlist.aspx?sicode=Z006)       
-16.[中国政府开放数据平台汇总](http://www.tanmer.com/blog/451)          
+11.[国家统计局](http://www.stats.gov.cn/)       
+12.[中华人民共和国中央人民政府](http://www.gov.cn/shuju/index.htm)        
+13.[中国国家调查数据库](http://www.cnsda.org/index.php)        
+14.[中国科学院地理科学与资源研究所](http://www.data.ac.cn/)       
+15.[中国国土资源与经济社会发展统计数据库](http://tongji.cnki.net/kns55/addvalue/indexlist.aspx?sicode=Z006)         
+16.[中国政府开放数据平台汇总](http://www.tanmer.com/blog/451)           
 17.[各国统计网站汇总](http://data.stats.gov.cn/gjwz.htm)
 ## 2012-2018年各季度GDP增速        
 ### 选取的统计指标         
@@ -42,7 +42,9 @@
 ### 数据页面      
 ![国内生产总值（不变价）当季值（亿元）](gdp.png)
 ### 计算步骤      
-GDP增速（同比）=（本季度国内生产总值（不变价）/去年同季度国内生产总值（不变价）-1）×100%
+GDP增速（同比）=（本季度国内生产总值（不变价）/去年同季度国内生产总值（不变价）-1）×100%     
+因为2011-2015年的数据按2010年不变价计算，2016年以后各季度按2015年价格计算，按这个方法求得2016年各季度的GDP增速会异常高（超过20%）。应该考虑2010年到2015年之间的通货膨胀，所以2016年各季度的GDP增速应该为上式减去2010和2015间居民价格消费指数（CPI）的增长率。          
+2010年居民价格消费指数为536.1（1978年=100），2015年居民价格消费指数为615.2（1978年=100），两年之间的增长率为14.75%
 ### 答案       
 <table>
    <tr><td>  季度  </td><td>  国内生产总值(不变价)当季值(亿元)  </td><td>  国内生产总值(不变价)增速  </td></tr>
@@ -54,10 +56,10 @@ GDP增速（同比）=（本季度国内生产总值（不变价）/去年同季
    <tr><td>2017年第三季度</td><td>200133.4</td><td>  6.74%</td></tr>
    <tr><td>2017年第二季度</td><td>191284.6</td><td>  6.81%</td></tr>
    <tr><td>2017年第一季度</td><td>171852.5</td><td>  6.85%</td></tr>
-   <tr><td>2016年第四季度</td><td>204764.2</td><td>  20.81%</td></tr>
-   <tr><td>2016年第三季度</td><td>187498.6</td><td>  22.45%</td></tr>
-   <tr><td>2016年第二季度</td><td>179089.5</td><td>  21.91%</td></tr>
-   <tr><td>2016年第一季度</td><td>160837.9</td><td>  21.39%</td></tr>
+   <tr><td>2016年第四季度</td><td>204764.2</td><td>  6.06%</td></tr>
+   <tr><td>2016年第三季度</td><td>187498.6</td><td>  7.70%</td></tr>
+   <tr><td>2016年第二季度</td><td>179089.5</td><td>  7.16%</td></tr>
+   <tr><td>2016年第一季度</td><td>160837.9</td><td>  6.64%</td></tr>
    <tr><td>2015年第四季度</td><td>169488.4</td><td>  6.82%</td></tr>
    <tr><td>2015年第三季度</td><td>153127.4</td><td>  6.86%</td></tr>
    <tr><td>2015年第二季度</td><td>146898.4</td><td>  6.99%</td></tr>
