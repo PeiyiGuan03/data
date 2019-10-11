@@ -1,4 +1,7 @@
 # 第二周作业
+<details>
+<summary>展开查看</summary>
+    
 ## 我国还有哪些关于公共数据开放的条例或法规？     
 1.《上海市公共数据开放暂行办法》        
 [上海市公共数据开放暂行办法](http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw12344/u26aw62638.html)         
@@ -84,6 +87,7 @@
    <tr><td>2012年第二季度</td><td>118757.4</td><td>  7.65%</td></tr>
    <tr><td>2012年第一季度</td><td>106938.5</td><td>  8.12%</td></tr>
 </table>
+</details>
 
 # 第一周作业
 <details>
