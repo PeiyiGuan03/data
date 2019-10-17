@@ -24,14 +24,14 @@
 * [Kaggle:对全球超过2500种拉面的评级](https://www.kaggle.com/residentmario/ramen-ratings)        
 * [数据源网站](https://www.theramenrater.com/)        
 ![数据截图](ramen.png)      
-### 使用的工具及呈现         
-1.Flourish        
-    * [用Flourish呈现的页面](https://public.flourish.studio/visualisation/776267/)          
-    * [Flourish可视化](ramen-flourish.png)       
-2.Rawgraph       
-    * [Rawgraph可视化](ramen-rawgraph.png)       
-3.Tableau       
-    * [Tableau可视化](ramen-tableau.png)
+### 使用的工具及呈现及使用体会         
+#### Flourish        
+* [用Flourish呈现的页面](https://public.flourish.studio/visualisation/776267/)          
+* ![Flourish可视化](ramen-flourish.png)       
+#### Rawgraph       
+* ![Rawgraph可视化](ramen-rawgraph.png)       
+#### Tableau       
+* ![Tableau可视化](ramen-tableau.png)
 
 
 # 第二周作业
