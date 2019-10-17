@@ -20,13 +20,14 @@
 13.[群绘](http://www.iqunhui.com)(微信社群分析产品，重新描绘社群画像)       
 14.[Google Chart](https://developers.google.com/chart)          
 ## 用图表工具呈现选取的数据集
-### 所选数据集       
-[kaggle：对全球超过2500种拉面的评级](https://www.kaggle.com/residentmario/ramen-ratings）        
-[数据源网站]（https://www.theramenrater.com/）        
-![数据截图]（ramen.png）      
+### 所选数据集          
+[Kaggle:对全球超过2500种拉面的评级](https://www.kaggle.com/residentmario/ramen-ratings)        
+[数据源网站](https://www.theramenrater.com/)        
+![数据截图](ramen.png)      
 ### 使用的工具及呈现         
-1.Flourish           
-<div class="flourish-embed" data-src="visualisation/776267"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+1.[用Flourish呈现的页面](https://public.flourish.studio/visualisation/776267/)          
+[Flourish生成图]
+
 
 
 # 第二周作业
