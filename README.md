@@ -27,11 +27,17 @@
 ### 使用的工具及呈现及使用体会         
 #### Flourish        
 * [用Flourish呈现的页面](https://public.flourish.studio/visualisation/776267/)          
-* ![Flourish可视化](ramen-flourish.png)       
+![Flourish可视化](ramen-flourish.png)        
+* 对新手友好，选择哪种可视化模板，在页面上有对应教程（有案例的那种），有些还有视频展示操作过程。       
+页面简洁好懂，上端有两个显示按钮，一个是所选数据，一个是预览，看得比较清楚。        
+操作方便，改变数据坐标、或者改变哪类数据用的配色（整体或个别）都不难。       
+最终呈现的页面也比较好看，也能交互，还能导出为链接和脚本的格式。（就是不知道怎么把脚本嵌入进markdown，插了好久都没查到…）
+地图比较少，只有几个国家的，全球好像不行（想要导入地名或国家名的数据直接生成就做不到）
 #### Rawgraph       
-* ![Rawgraph可视化](ramen-rawgraph.png)       
+![Rawgraph可视化](ramen-rawgraph.png)       
+* 可以选择
 #### Tableau       
-* ![Tableau可视化](ramen-tableau.png)
+![Tableau可视化](ramen-tableau.png)
 
 
 # 第二周作业
