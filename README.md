@@ -15,13 +15,19 @@
 8.[百度·图说](http://tushuo.baidu.com/)         
 9.[Echarts](https://www.echartsjs.com/zh/builder.html)      
 10.[HTML5 Word Cloud](https://timdream.org/wordcloud/)       
-11.[Tagxedo(关键词分析/词云制作)](http://www.tagxedo.com/)       
+11.[Tagxedo](http://www.tagxedo.com/)(关键词分析/词云制作)        
 12.[图悅](http://www.picdata.cn/index.php)        
-13.[群绘(微信社群分析产品，重新描绘社群画像)](http://www.iqunhui.com)       
+13.[群绘](http://www.iqunhui.com)(微信社群分析产品，重新描绘社群画像)       
 14.[Google Chart](https://developers.google.com/chart)          
 ## 用图表工具呈现选取的数据集
-### 所选数据集      
-[对全球超过2500种拉面的评级]（https://www.kaggle.com/residentmario/ramen-ratings）
+### 所选数据集       
+[kagle：对全球超过2500种拉面的评级](https://www.kaggle.com/residentmario/ramen-ratings）
+[数据源网站]（https://www.theramenrater.com/）
+![数据截图]（ramen.png）      
+### 使用的工具及呈现         
+1.Flourish           
+<div class="flourish-embed" data-src="visualisation/776267"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+
 
 # 第二周作业
 <details>
