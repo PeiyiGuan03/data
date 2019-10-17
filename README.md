@@ -1,3 +1,28 @@
+# 第三周作业
+## 调研目前免费的可视化图表工具      
+1.[Tableau Public](https://www.tableau.com)       
+2.[Qlik Sense Desktop](https://www.qlik.com/us)           
+>均提供软件中文版、中文官网、全面的中文在线帮助，有线上教学视频、学习交流社区           
+可以在没有任何或少量IT技术能力的情况下，使用拖拉拽的方式对模型进行自动化的修改，轻松创建交互式报表，用可视化的方式例如各种图形来展示分析结果。            
+免费版，适合轻量数据分析，日常业务数据梳理，虽然免费版功能有限，但可处理数据量还是比EXCEL多，EXCEL数据量过多打开都困难的文件，可以在工具中轻松打开，拖拉拽实现交互式报表分析。            
+更多专业功能可以循序渐进的学习使用，并适时引入技术手段做高阶应用分析。
+
+3.[Flourish](https://flourish.studio/)        
+4.[Rawgraphs](https://rawgraphs.io/)          
+5.[BDP](https://me.bdp.cn/home.html)        
+6.[图表秀](https://www.tubiaoxiu.com/)        
+7.[大数据魔镜](http://www.moojnn.com/product-center/freeinto.html)         
+8.[百度·图说](http://tushuo.baidu.com/)         
+9.[Echarts](https://www.echartsjs.com/zh/builder.html)      
+10.[HTML5 Word Cloud](https://timdream.org/wordcloud/)       
+11.[Tagxedo(关键词分析/词云制作)](http://www.tagxedo.com/)       
+12.[图悅](http://www.picdata.cn/index.php)        
+13.[群绘(微信社群分析产品，重新描绘社群画像)](http://www.iqunhui.com)       
+14.[Google Chart](https://developers.google.com/chart)          
+## 用图表工具呈现选取的数据集
+### 所选数据集      
+[对全球超过2500种拉面的评级]（https://www.kaggle.com/residentmario/ramen-ratings）
+
 # 第二周作业
 <details>
 <summary>展开查看</summary>
