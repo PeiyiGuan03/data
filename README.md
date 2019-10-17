@@ -21,8 +21,8 @@
 14.[Google Chart](https://developers.google.com/chart)          
 ## 用图表工具呈现选取的数据集
 ### 所选数据集       
-[kagle：对全球超过2500种拉面的评级](https://www.kaggle.com/residentmario/ramen-ratings）
-[数据源网站]（https://www.theramenrater.com/）
+[kaggle：对全球超过2500种拉面的评级](https://www.kaggle.com/residentmario/ramen-ratings）        
+[数据源网站]（https://www.theramenrater.com/）        
 ![数据截图]（ramen.png）      
 ### 使用的工具及呈现         
 1.Flourish           
