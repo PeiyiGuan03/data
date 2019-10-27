@@ -1,11 +1,15 @@
 # 第四-五周作业          
+
 <iframe 
-src="https://public.flourish.studio/visualisation/828388/embed" 
-frameborder="none" 
-scrolling="auto" 
-style="width:100%;height:600px;"
->
+        frameborder="0" 
+        width="640" 
+        height="352" 
+        src="https://public.flourish.studio/visualisation/828388/embed">
 </iframe>
+
+<div class="flourish-embed" data-src="visualisation/828388"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+
+<amp-iframe sandbox='allow-scripts allow-same-origin' layout=responsive resizable noloading src='https://public.flourish.studio/visualisation/828388/embed?auto=1' width=400 height=300><amp-img layout=fixed height=64 width=64 src='https://public.flourish.studio/resources/bosh.svg' placeholder style='margin: auto'></amp-img><div overflow></div></amp-iframe><p><a href='https://public.flourish.studio/visualisation/828388/?utm_source=embed&utm_campaign=visualisation/828388'><amp-img layout=fixed height=16 width=105 src='https://public.flourish.studio/resources/made_with_flourish.svg' alt='Made with Flourish'></amp-img></a></p>
 
 # 第三周作业
 
