@@ -1,8 +1,8 @@
 # 第四-五周作业          
 <iframe 
 src="https://public.flourish.studio/visualisation/828388/embed" 
-frameborder="0" 
-scrolling="no" 
+frameborder="none" 
+scrolling="auto" 
 style="width:100%;height:600px;"
 >
 </iframe>
