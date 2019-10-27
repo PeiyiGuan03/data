@@ -1,4 +1,19 @@
+# 第四-五周作业          
+<iframe 
+    height=450 
+    width=800 
+    src="https://datawrapper.dwcdn.net/unO3P/1/"
+    frameborder=0 
+    'allowfullscreen'>
+</iframe>
+
+
+
 # 第三周作业
+
+<details>
+<summary>展开查看</summary>
+    
 ## 调研目前免费的可视化图表工具      
 1.[Tableau Public](https://www.tableau.com)       
 2.[Qlik Sense Desktop](https://www.qlik.com/us)           
@@ -48,7 +63,10 @@
 4.每类数据呈现的时候，左边有个标记可以选择用颜色还是大小还是标签工具等，方便修改。        
 5.就最后的成果来看，我选的维度有点多了，因为既有颜色代表类别，又有深浅代表评分，所以乍一看不太明白（而且也没有图例，像详细信息要在交互时才能出现）。本来想的是用一种颜色呈现一种类别，一张图上只有深浅体现评分，然后有个图例，选择不同类别的时候对应地图的主色是不一样的（还在琢磨怎么做到，需要再学习）
 
+</details>
+
 # 第二周作业
+
 <details>
 <summary>展开查看</summary>
     
@@ -140,6 +158,7 @@
 </details>
 
 # 第一周作业
+
 <details>
 <summary>展开查看</summary>
 
