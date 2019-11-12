@@ -7,7 +7,7 @@
 
 要对未成年人犯罪实施分级预防，教惩相辅的手段，最大的难点在于平衡保护与惩罚的尺度，这一平衡不仅体现在当事人双方的考虑上，也体现在对整个社会关切的示范作用。对加害者过于保护会引来“纵容”的质疑，惩罚过度又会对其权益造成侵害，司法公正难以服人心。       
 
-![2015-2016未成年人犯罪有期徒刑刑期](minor crime 01.png)    
+![2015-2016未成年人犯罪有期徒刑刑期](minorcrime1.png)    
 
 <div class="flourish-embed" data-src="visualisation/896836" data-width="120%"></div><script src="https://public.flourish.studio/resources/embed.js"></script>        
 <br>
