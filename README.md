@@ -1,7 +1,7 @@
 # 第六周作业        
 ## 法律的意义不是靠杀人来抚慰人心     
 
-<amp-iframe sandbox='allow-scripts allow-same-origin' layout=responsive resizable noloading src='https://public.flourish.studio/visualisation/896836/embed?auto=1' width=400 height=300><amp-img layout=fixed height=64 width=64 src='https://public.flourish.studio/resources/bosh.svg' placeholder style='margin: auto'></amp-img><div overflow></div></amp-iframe><p><a href='https://public.flourish.studio/visualisation/896836/?utm_source=embed&utm_campaign=visualisation/896836'><amp-img layout=fixed height=16 width=105 src='https://public.flourish.studio/resources/made_with_flourish.svg' alt='Made with Flourish'></amp-img></a></p>
+<div class="flourish-embed" data-src="visualisation/896836" data-width="120%"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 # 第四-五周作业
 
