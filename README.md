@@ -7,7 +7,11 @@
 
 要对未成年人犯罪实施分级预防，教惩相辅的手段，最大的难点在于平衡保护与惩罚的尺度，这一平衡不仅体现在当事人双方的考虑上，也体现在对整个社会关切的示范作用。对加害者过于保护会引来“纵容”的质疑，惩罚过度又会对其权益造成侵害，司法公正难以服人心。       
 
-![2015-2016未成年人犯罪有期徒刑刑期](minorcrime1.png)    
+![2015-2016未成年人犯罪有期徒刑刑期](minorcrime1.png)   
+
+2015年1月1日到2016年12月31 日对未成年人犯罪的有期徒刑量刑中，有七成是小于3年的，一定程度上反映了未成年人犯罪的性质比例和相对承担责任的量刑考虑。但是对于16周岁以下不予刑事处罚的未成年人，“顶格处理”的程度是收容教养这一行政措施，时限多为1-3年，而不是刑罚。
+
+近年关于降低承担刑事责任最低年龄的呼声越来越高，这与未成年人总体发展水平与社会现代化进程等背景相关。根据世界儿童权利网络（CHILD RIGHTS INTERNATIONAL NETWORK）的统计，世界200多个国家和地区中，与中国一样以14岁为最低刑事责任年龄的国家数量最多，超过40个，其次是12岁，有三十多个国家。最低刑事年龄的确定与人的生理成长与心理认知发展水平有关，还要考虑该国法系的继承。仅靠年龄划分可能会由于个案不适用引起舆论，但降低刑事责任年龄治标难治本,当前亟须完善的是通过法律实现惩罚与保护的平衡。
 
 <div class="flourish-embed" data-src="visualisation/896836" data-width="120%"></div><script src="https://public.flourish.studio/resources/embed.js"></script>        
 <br>
@@ -38,12 +42,17 @@
 5.突出对比的国家选择。首先比利时和日本都是和中国一样的大陆法系，一起呈现的可比较性更强，其次比利时是所有国家中得分最高的，与之对比能发现差异到底在哪，日本是东亚国家中得分最高的（亚洲得分最高的是以色列，从地理的维度看与中国可能差异更大，所以选日本，而且从图中也可以看出，日本和中国的各项得分及变化情况是很相似的），能辅助进行对比，增强数据的解释力。         
 
 ## 信息/数据来源链接        
-数据来源         
-1.[ACCESS TO JUSTICE: CHALLENGING VIOLATIONS OF CHILDREN'S RIGHTS](https://archive.crin.org/en/home/law/access.html)
-信息来源         
+* 数据来源         
+1.[ACCESS TO JUSTICE: CHALLENGING VIOLATIONS OF CHILDREN'S RIGHTS](https://archive.crin.org/en/home/law/access.html)         
+2.[中华人民共和国最高人民法院：司法大数据专题报告之未成年人犯罪](http://www.court.gov.cn/fabu-xiangqing-71052.html)       
+3.[中华人民共和国最高人民法院：从司法大数据看我国未成年人权益司法保护和未成年人犯罪特点及其预防](http://www.court.gov.cn/fabu-xiangqing-119901.html)
+* 信息来源         
 1.[澎湃新闻报道](https://www.thepaper.cn/newsDetail_forward_4791263)       
 2.[新华社报道](http://www.xinhuanet.com/politics/leaders/2019-10/26/c_1125156195.htm)        
-3.[最高检：2018-2022检查改革工作规划](http://www.chinanews.com/gn/2019/02-12/8751564.shtml)
+3.[最高检：2018-2022检查改革工作规划](http://www.chinanews.com/gn/2019/02-12/8751564.shtml)        
+4.[新京报、有理数关于未成年人犯罪的报道](https://news.sina.com.cn/c/2018-12-18/doc-ihqhqcir7825107.shtml)       
+5.[新华社关于防范未成年人犯罪的报道](http://www.xinhuanet.com/legal/2019-03/29/c_1124298494.htm)         
+6.[法制日报的报道](http://baijiahao.baidu.com/s?id=1649324040863918653&wfr=spider&for=pc)
 
 
 # 第四-五周作业
