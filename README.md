@@ -4,6 +4,7 @@
 ![2010-2018快递行业](图片1.png)
 * ggplot       
 分别做成两张图
+
 ```r
 > data <- read.csv("data1.csv")
 > ggplot(data = data,aes(x = Year,y = Express_business))+
@@ -15,10 +16,12 @@ ggplot(data = data,aes(x = Year,y = Growth_rate,group = 1))+
 + geom_line(stat = "identity",color = "red")+
 + labs(title = "Express traffic growth rate from 2010 to 2018")
 ```         
+
 效果如下：      
 ![bar1](BAR1.bmp)     
 ![line1](LINE1.bmp)        
-做成一张图       
+做成一张图
+
 ```r
 Year<- c(2010,2011,2012,2013,2014,2015,2016,2017,2018)
 > Consumers <- c(23.4,36.7,56.9,91.9,139.6,206.7,312.8,400.6,507.1)
@@ -26,26 +29,29 @@ Year<- c(2010,2011,2012,2013,2014,2015,2016,2017,2018)
 > df1 <- data.frame(Date = Date, Consumers=Consumers, Amount = Amount)
 > library(plotrix) 
 twoord.plot(lx = df1$year, ly = df1$Express_business, rx = df1$Year, ry = df1$Growth_rate,main = 'The Development of Express delivery Industry in China from 2010 to 2018', xlab = 'Year', ylab = 'Express business', rylab = 'Growth rate', type = c('bar','line'))
-```       
+```      
+
 效果如下：      
 ![bar+line](BAR+LINE-1.png)
 
 ## 图二
-* 原图      
+* 原图           
+![yuantu2](yuantu2.png)              
+* ggplot                
 
-<div class="flourish-embed" data-src="visualisation/896836" data-width="120%"></div><script src="https://public.flourish.studio/resources/embed.js"></script>        
-  
-* ggplot       
 ```r
 > data <- read.csv("law.csv")
 > ggplot(data=data, aes(x=Part, y=Rank, group=Country)) +
 + geom_line(size = 0.1)+ 
 + geom_point(size = 0.05)+
 + ggtitle("World rankings of access to justice for children")
-```     
+```            
+
 效果如下：      
-![line2](LINE2-1.png)          
-尝试将个别线条变色，但是以下代码没有显示出来…    
+![line2](LINE2-1.png)               
+
+尝试将个别线条变色，但是以下代码没有显示出来…             
+
 ```r
 + scale_linetype_manual(values=c("China", "Japan","Belgium"))+
 + scale_size_manual(values=c(0.15, 0.15,0.15))+
