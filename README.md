@@ -1,5 +1,49 @@
 # 第九周作业
+## 图一
+* 原图
 
+* ggplot       
+分别做成两张图
+```r
+> data <- read.csv("data1.csv")
+> ggplot(data = data,aes(x = Year,y = Express_business))+
++ geom_bar(stat = "identity")
++ geom_bar(stat = "identity",fill = "blue")+
++ ggtitle("The Development of Express delivery Industry in China from 2010 to 2018")
+
+ggplot(data = data,aes(x = Year,y = Growth_rate,group = 1))+
++ geom_line(stat = "identity",color = "red")+
++ labs(title = "Express traffic growth rate from 2010 to 2018")
+```         
+效果如下：      
+
+做成一张图       
+```r
+Year<- c(2010,2011,2012,2013,2014,2015,2016,2017,2018)
+> Consumers <- c(23.4,36.7,56.9,91.9,139.6,206.7,312.8,400.6,507.1)
+> Amount <- c(0.259,0.568,0.55,0.615,0.519,0.481,0.513,0.281,0.266)
+> df1 <- data.frame(Date = Date, Consumers=Consumers, Amount = Amount)
+> library(plotrix) 
+twoord.plot(lx = df1$year, ly = df1$Express_business, rx = df1$Year, ry = df1$Growth_rate,main = 'The Development of Express delivery Industry in China from 2010 to 2018', xlab = 'Year', ylab = 'Express business', rylab = 'Growth rate', type = c('bar','line'))
+```       
+效果如下：
+
+
+## 图二
+* 原图
+* ggplot       
+```r
+> data <- read.csv("law.csv")
+> ggplot(data=data, aes(x=Part, y=Rank, group=Country)) +
++ geom_line(size = 0.1)+ 
++ geom_point(size = 0.05)+
+```
+尝试将个别线条变色，但是没有显示出来…    
+```r
++ scale_linetype_manual(values=c("China", "Japan","Belgium"))+
++ scale_size_manual(values=c(0.15, 0.15,0.15))+
++ scale_color_manual(values=c('#1d6996','#1d6996','#1d6996'))     
+```
 
 # 第六周作业  
 
