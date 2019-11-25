@@ -1,4 +1,11 @@
-# 第六周作业        
+# 第九周作业
+
+
+# 第六周作业  
+
+<details>
+<summary>展开</summary>
+    
 ## 未成年人保护法修法：谈刑罚时，别忘了保护的初衷     
 保护与惩罚从来不是对立。     
 
@@ -65,6 +72,7 @@
 5.[新华社关于防范未成年人犯罪的报道](http://www.xinhuanet.com/legal/2019-03/29/c_1124298494.htm)         
 6.[法制日报的报道](http://baijiahao.baidu.com/s?id=1649324040863918653&wfr=spider&for=pc)
 
+</details>
 
 # 第四-五周作业
 
