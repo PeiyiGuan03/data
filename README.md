@@ -1,4 +1,8 @@
-# 第九周作业
+# 第九周作业        
+
+<details>
+<summary>展开</summary>
+ 
 ## 图一
 * 原图
 ![2010-2018快递行业](图片1.png)
@@ -57,6 +61,7 @@ twoord.plot(lx = df1$year, ly = df1$Express_business, rx = df1$Year, ry = df1$Gr
 + scale_size_manual(values=c(0.15, 0.15,0.15))+
 + scale_color_manual(values=c('#1d6996','#1d6996','#1d6996'))     
 ```
+</details>     
 
 # 第六周作业  
 
