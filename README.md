@@ -16,8 +16,8 @@
 （1）搜集资料的时候，列出了一些可能可以可视化的维度，有想法了就往上加一点。                   
 （2）按照国内/国外，经营/精神/政策等标签搜集资料，把关键信息标出，持续补充。          
 （3）把上述整理的文档略看一遍，在一张白纸上把已有的想法进行整合（比如开头怎么开，哪一句话要放，关于一个主题的部分内容要写，怎么串联等），参考下图（不保证别人能看懂，反正我能看懂就行）             
-![1](thinking.jpg)          
-![2](thinking1.jpg)
+![aaa](thinking.jpg)          
+![bbb](thinking1.jpg)                    
 （4）写作。写完再看n遍，批注需要修改的地方，修改。（自己改自己稿循环）不清楚的地方就把大意写出来，考虑和上下文是否贴合、怎么调顺序等。              
 
 3、视觉呈现的选择                                  
@@ -31,7 +31,7 @@
 4、参考资料（链接或文件）                               
 
 （1）[南方周末报道《北京老书虫书店：无尽的告别，无尽的相遇》](http://www.jingkan.net/getarticle/5dd357404da0f57ec3bf9ad5)                           
-（2）[老书虫：Important Announcement / 重要通知](https://mp.weixin.qq.com/s/rH1qv3QXgVtUb6J6X5853A)
+（2）[老书虫：Important Announcement / 重要通知](https://mp.weixin.qq.com/s/rH1qv3QXgVtUb6J6X5853A)                       
 （3）[美国书商协会关于独立书店的报道](https://www.bookweb.org/for-the-record)                        
 （4）[纽约时报发起的关于“书店如何保持活力”的讨论](https://www.nytimes.com/roomfordebate/2014/03/26/how-can-bookstores-stay-alive)                  
 （5）[亚马逊开线下书店](https://www.geekwire.com/2015/its-official-amazon-is-opening-its-first-ever-bookstore-in-seattle/)                   
